@@ -1,2 +1,2 @@
-# Kicad_testing
-Basic board design
+# Basic Breadboard Power Supply
+A little power supply for breadboards
